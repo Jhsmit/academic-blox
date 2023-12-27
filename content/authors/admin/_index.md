@@ -73,7 +73,7 @@ skills:
       - name: Biking
         description: ''
         percent: 100
-        icon: person-hiking
+        icon: person-biking
         icon_pack: fas
 
 
