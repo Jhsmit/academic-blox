@@ -17,7 +17,7 @@ organizations:
   - name: KU Leuven
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interest in mechanisms of physical law and biological machinery is what drives me to do research. I have a strong background in both Chemistry and Physics as well as programming proficiency which allows me to contribute to a broad range of interdisciplinary research projects. In our lab we use a combination of HDX-MS ans smFRET to study protein (non)folding and chaperone interactions.
+bio: Biophysicist interested in protein folding, single-molecules, informatics and interactive dashboards. 
 
 # Interests to show in About widget
 interests:
@@ -115,5 +115,5 @@ social:
 highlight_name: true
 ---
 
-My aims in research are to apply my experience from Chemistry, Physics and Computer Science to tackle biological questions through fluorescence microsopy.
+My interest in mechanisms of physical law and biological machinery is what drives me to do research. I have a strong background in both Chemistry and Physics as well as programming proficiency which allows me to contribute to a broad range of interdisciplinary research projects. In our lab we use a combination of HDX-MS ans smFRET to study protein (non)folding and chaperone interactions.
 {style="text-align: justify;"}
